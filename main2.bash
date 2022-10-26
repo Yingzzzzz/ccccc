@@ -2,7 +2,7 @@ mkdir web_monitor_log
 cd web_monitor_log
 touch Web_log.csv  #Final output
 touch WebLog.csv
-wget https://raw.githubusercontent.com/Yingzzzzz/trya/main/directory.bash
+wget https://raw.githubusercontent.com/Yingzzzzz/ccccc/main/directory.bash
  while :
       do
 
